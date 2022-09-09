@@ -1,17 +1,13 @@
-### Personal data  
-===
+### Personal data
 Name: Oleg;
 Surname: Vashchan;
 ### Contacts
-===
 telegram: @guker94;
 email: guker168@gmail.com;
 github: guker321;
 ### About me
-===
 I am a novice frontend developer, currently working, continuing to improve, studying new technologies, in-depth mastering the current ones.
 ### Skils
-===
 * HTML
 * CSS:
     + BEM
@@ -32,7 +28,6 @@ I am a novice frontend developer, currently working, continuing to improve, stud
     + Axios
 
 ### Sample
-===
 `
 function fibonachi(n) {
   let first = 1;
@@ -46,7 +41,6 @@ function fibonachi(n) {
 }
 `
 ### Education
-===
 1. Udemy
 2. Learn JavaScript
 3. itGidInfo
